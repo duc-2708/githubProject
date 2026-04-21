@@ -7,4 +7,7 @@ public class DanhMucController {
 public String hienThi() {
 	return"Đây là hiển thị";
 }
+public String ADD() {
+	return"";
+}
 }
