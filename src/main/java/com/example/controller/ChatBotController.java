@@ -7,4 +7,8 @@ public class ChatBotController {
 	public String hienThi() {
 		return "hienthi";
 	}
+	
+	public String add() {
+		return "add";
+	}
 }
