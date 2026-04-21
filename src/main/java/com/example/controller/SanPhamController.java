@@ -7,4 +7,8 @@ public class SanPhamController {
 	public String show() {
 		return "đây là sản phẩm";
 	}
+	
+	public String addSanPham() {
+		return "add";
+	}
 }
