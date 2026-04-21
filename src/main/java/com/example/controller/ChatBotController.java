@@ -5,7 +5,7 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class ChatBotController {
 	public String hienThi() {
-		return "hienthi";
+		return "hienthi"; // fixixiidififix
 	}
 	
 	public String add() {
