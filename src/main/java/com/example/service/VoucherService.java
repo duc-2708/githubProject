@@ -7,4 +7,5 @@ public class VoucherService {
 public void getAll() {
 	//getAll;
 }
+
 }
